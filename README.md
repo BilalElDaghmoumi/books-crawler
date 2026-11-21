@@ -1,4 +1,4 @@
-# books-crawler# Books Pipeline: a small end-to-end data project
+# Books Pipeline: a small end-to-end data project
 
 Generates a realistic, messy book catalogue (1,025 raw rows, the same shape as
 scraped web data), cleans and validates it with pandas, loads it into SQLite
